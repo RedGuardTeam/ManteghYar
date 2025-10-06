@@ -1,0 +1,16 @@
+[
+  {
+    "avatar": "م",
+    "username": "موسی",
+    "date": "1404/04/04",
+    "time": "14:30",
+    "text": "این یه متن تست است\n@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot@ZeddeLinkbot"
+  },
+  {
+    "avatar": "ی",
+    "username": "یحیی",
+    "date": "1404/04/04",
+    "time": "14:26",
+    "text": "avatar_text.setText(list.get((int)_position).get(\"avatar\").toString());\r\nusername_text.setText(list.get((int)_position).get(\"username\").toString());\r\ndate_text.setText(list.get((int)_position).get(\"date\").toString());\r\ntime_text.setText(list.get((int)_position).get(\"time\").toString());\r\nexperience_text.setText(list.get((int)_position).get(\"text\").toString());"
+  }
+]
